@@ -1,7 +1,7 @@
 # moviesPractica
 Practica #1
 Mateo Mariotti
-Daniel Silva
 Gaspar Borgogno
+Daniel Silva
 Gaston Coronel
 Kenneddy Zea
